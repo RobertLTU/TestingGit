@@ -1,1 +1,4 @@
-CORRECTION 1 - master branch
+Both branches have this same FILE. (Master and testBranch1)
+
+However both of them have different versions of this file. 
+Contents inside of it are different etc.
