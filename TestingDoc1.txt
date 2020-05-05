@@ -1,1 +1,4 @@
-CORRECTION 1 - master branch
+Both branches have this same FILE. (Master and testBranch1)
+
+However this comment is written and commited to testBranch1 ONLY
+
