@@ -1,4 +1,6 @@
-Both branches have this same FILE. (Master and testBranch1)
+Both LOCAL GIT branches have this same FILE. (Master and testBranch1)
 
 However both of them have different versions of this file. 
-Contents inside of it are different etc.
+File name I left the same, however contents inside of them are different.
+
+REMOTE repo currently has only 1 branch > MASTER.
